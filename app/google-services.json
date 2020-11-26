@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "311702692346",
+    "firebase_url": "https://lab5-187ee.firebaseio.com",
+    "project_id": "lab5-187ee",
+    "storage_bucket": "lab5-187ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311702692346:android:f066aa31ee1a8fccb58443",
+        "android_client_info": {
+          "package_name": "com.example.mycatalogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311702692346-vpn7cug7crdqjpv2suhaj1gihjh8hnl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mycatalogapp",
+            "certificate_hash": "8764e3948fa444e061886acf206ac3e45a72d89a"
+          }
+        },
+        {
+          "client_id": "311702692346-nq8hft8pgr2nmg4hpp39etm3s2vl94kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8f8mkGfWPokPQqjWcRqQizvnIjYTF7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311702692346-nq8hft8pgr2nmg4hpp39etm3s2vl94kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
